@@ -3,7 +3,7 @@ mini projet de mise à niveau
 
 
 ## Tâche
-Reproduiser la maquette du projet
+Reproduisser la maquette du projet
 
 
 ## Code Couleur
